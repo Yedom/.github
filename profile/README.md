@@ -1,1 +1,1 @@
-## Yetube's orgatization profile
+## Yetube education platform web-application

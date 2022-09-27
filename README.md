@@ -1,2 +1,2 @@
 # .github
-Yetube's profile
+Education platform web-site application

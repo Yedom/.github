@@ -1,1 +1,1 @@
-## Yetube education platform web-application
+## YeDom education platform web-application

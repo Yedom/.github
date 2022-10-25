@@ -5,3 +5,6 @@
 <b>Open Repositories:</b>  
 1. <a href="https://github.com/Yedom/RecomendationSystem">RecomendationSystem</a>  
 2. <a href="https://github.com/Yedom/VideoAR">VideoAR</a>
+
+<b>Visualization:</b>  
+1. <a href="https://www.youtube.com/watch?v=nWN-0GAwvDQ">OpenCV chessboard pattern adding video</a>  

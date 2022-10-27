@@ -8,3 +8,4 @@
 
 <b>Visualization:</b>  
 1. <a href="https://www.youtube.com/watch?v=nWN-0GAwvDQ">OpenCV chessboard pattern adding video</a>  
+2. <a href="https://www.youtube.com/watch?v=iNtfPMPLfME">Yedom education platform (Auth System + Smart Search)</a>  

@@ -4,6 +4,7 @@
   
 <b>Open Repositories:</b>  
 1. <a href="https://github.com/Yedom/VideoAR">VideoAR</a>  
+2. <a href="https://github.com/Yedom/SmartSearch_Template">Smart Search Template</a> 
 
 <b>Demo:</b>  
 1. <a href="https://www.youtube.com/watch?v=nWN-0GAwvDQ">OpenCV chessboard pattern adding video</a>  

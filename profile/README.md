@@ -6,10 +6,9 @@
 1. <a href="https://github.com/Yedom/VideoAR">VideoAR</a>  
 2. <a href="https://github.com/Yedom/SmartSearch_Template">Smart Search Template</a> 
 
-<b>Demo:</b>  
-1. <a href="https://www.youtube.com/watch?v=nWN-0GAwvDQ">OpenCV chessboard pattern adding video</a>  
-2. <a href="https://www.youtube.com/watch?v=iNtfPMPLfME">Yedom education platform (Auth System + Smart Search)</a>  
-3. <a href="https://www.youtube.com/watch?v=VbPC3DxAA50">Yedom education platform (PROTOTYPE)</a>  
+<b>Demo playlist:</b> <a href="https://youtube.com/playlist?list=PL9hwZkxBzA7rHTd2HNDsd82zQg71kXFrt">Yedom project demonstrations</a>  
+
+<b>Tracking:</b> <a href="https://yedom.youtrack.cloud/projects">YouTrack</a>
 
 <b>Private Repositories:</b>  
 1. <a href="https://github.com/Yedom/Yedom">Yedom</a>  

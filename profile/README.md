@@ -8,8 +8,6 @@
 
 <b>Demo playlist:</b> <a href="https://youtube.com/playlist?list=PL9hwZkxBzA7rHTd2HNDsd82zQg71kXFrt">Yedom project demonstrations</a>  
 
-<b>Tracking:</b> <a href="https://yedom.youtrack.cloud/projects">YouTrack</a>
-
 <b>Private Repositories:</b>  
 1. <a href="https://github.com/Yedom/Yedom">Yedom</a>  
 2. <a href="https://github.com/Yedom/SmartSearch">SmartSearch</a>  
